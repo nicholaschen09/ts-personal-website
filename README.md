@@ -1,1 +1,1 @@
-my original website: nicholaschen.me turned into a typescript interface 
+my original website: [nicholaschen.me](https://nicholaschen.me/) turned into a typescript interface 
